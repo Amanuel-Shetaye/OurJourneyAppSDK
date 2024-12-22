@@ -1,0 +1,3 @@
+Donwload the OurJourney app on Android devices via SDK here:
+
+https://expo.dev/accounts/amanuelshetaye/projects/ourjourney_resource_app/builds/afba0c15-7dbd-40fa-bb3a-b78ebed979e5
